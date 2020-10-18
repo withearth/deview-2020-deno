@@ -1,2 +1,3 @@
-
-console.log("Hello, Deview 2020 🦕")
+export function helloDeno() {
+    console.log("Hello, Deview 2020 🦕")
+}
